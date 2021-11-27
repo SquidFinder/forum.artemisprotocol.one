@@ -5,9 +5,9 @@ $dbms = 'phpbb\\db\\driver\\mysqli';
 $dbhost = 'localhost';
 $dbport = '';
 $dbname = 'i8436100_bb1';
-$dbuser = 'Squid';
-$dbpasswd = 'YOUPASSWORDHERE';
-$table_prefix = 'bb_';
+$dbuser = 'USER_NAME_HERE';
+$dbpasswd = 'YOU_PASSWORD_HERE';
+$table_prefix = 'DB_PREFIX (i.e=bb_)';
 $phpbb_adm_relative_path = 'adm/';
 $acm_type = 'phpbb\\cache\\driver\\file';
 
