@@ -1,0 +1,12 @@
+/*  phpBB3 Style Sheet
+    --------------------------------------------------------------
+	Style name:			1978
+	Based on style:		prosilver (the default phpBB 3.3.x style)
+	Original author:	Tom Beddard ( http://www.subblue.com/ )
+	Modified by:		Ian Bradley ( http://phpbbstyles.oo.gd/ )
+    --------------------------------------------------------------
+*/
+
+@import url("../../1978/theme/stylesheet.css?v=1.0.1");
+@import url("colours_white.css?v=1.0.1");
+@import url("1978_white.css?v=1.0.1");

@@ -1,0 +1,22 @@
+/*  phpBB3 Style Sheet
+    --------------------------------------------------------------
+	Style name:			Quantum Codex
+	Based on style:		prosilver (the default phpBB 3.3.x style)
+	Original author:	Tom Beddard ( http://www.subblue.com/ )
+	Modified by:		Squid.Finder ( Squid.Finder.One@gmail.com )
+    --------------------------------------------------------------
+*/
+
+@import url("normalize.css?hash=0d319635");
+@import url("base.css?hash=94881b2d");
+@import url("utilities.css?hash=3a3f5cdb");
+@import url("common.css?hash=c66a18dc");
+@import url("links.css?hash=e9aa4234");
+@import url("content.css?hash=c6d327df");
+@import url("buttons.css?hash=ba90f3ef");
+@import url("cp.css?hash=40915ca9");
+@import url("forms.css?hash=c4c794f7");
+@import url("icons.css?hash=8bd7Ecdb");
+@import url("colours.css?hash=46d31c02");
+@import url("responsive.css?hash=4b175099");
+@import url("imageset.css?hash=cc68a9fd");
